@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KawaCampos
+- 👀 I’m interested in became a Developer
+- 🌱 I’m currently learning JavaScript, TypeScript, React
