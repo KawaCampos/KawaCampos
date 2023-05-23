@@ -43,9 +43,12 @@ I have advanced proficiency in English.
 <br>
 
 ### 📞 Contact:
-<a href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/"><img src="images/linkedin (3).png" alt="linkedin" width="20px"></a>
-<a href="mailto:kawacampos030@gmail.com"><img src="images/gmail (2).png" alt="gmail" width="20px"></a>
-<a href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing"><img src="images/curriculos.png" alt="curriculo" width="20px"></a>
+<a href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/" target="_blank"><img src="images/linkedin (3).png" alt="linkedin" width="20px"></a>
+<a href="mailto:kawacampos030@gmail.com" target="_blank"><img src="images/gmail (2).png" alt="gmail" width="20px"></a>
+
+### 📝Resume:
+<a href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing" target="_blank"><img src="images/curriculos.png" alt="curriculo" width="50px"></a>
+
 
 
 
