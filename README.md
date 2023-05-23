@@ -1,7 +1,7 @@
 ### 👋 Kawã Campos - Front-end Developer
 <br>
-<a href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/"><img src="images/linkedin (2).png" alt="linkedin" width="30px"></a>
-<a href="mailto:kawacampos030@gmail.com"><img src="images/gmail (1).png" alt="gmail" width="30px"></a>
+<a href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/"><img src="images/linkedin (2).png" alt="linkedin" width="20px"></a>
+<a href="mailto:kawacampos030@gmail.com"><img src="images/gmail (1).png" alt="gmail" width="20px"></a>
 
 ### 📖 About Me
 I am a Computer Science student with a passion for web development and creating user-friendly interfaces. I am currently in my first semester of studies and committed to enhancing my skills through courses and hands-on projects. My goal is to become a skilled front-end developer and contribute to the creation of amazing web experiences.
