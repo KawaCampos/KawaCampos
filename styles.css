@@ -25,6 +25,7 @@ a{
 }
 
 div{
-  display: grid;
-  grid-template-columns: auto;
+  display: inline-block;
+  
+  
 }
