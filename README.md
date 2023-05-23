@@ -36,10 +36,11 @@ I also have an interest in Python and I am actively seeking knowledge to expand 
 
 ### 💼 Work Experience: 
 I have previous experience as a cashier at McDonald's and as a kitchen assistant at Cabana Burguer. However, my main focus is in the development field.
+
 <center>
   <table>
     <tr>
-         <td>
+        <td>
           <div>
            🌎 Languages:
             I have advanced proficiency in English.
@@ -49,12 +50,14 @@ I have previous experience as a cashier at McDonald's and as a kitchen assistant
           <div>
             📞 Contact:
             <a target="_blank" href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/"><img src="images/linkedin (3).png"       alt="linkedin" width="20px" ></a>
-            <a target="_blank" href="mailto:kawacampos030@gmail.com" ><img src="images/gmail (2).png" alt="gmail" width="20px" ></a>             </div>
-       </td>
-          <td><div>
+            <a target="_blank" href="mailto:kawacampos030@gmail.com" ><img src="images/gmail (2).png" alt="gmail" width="20px" ></a>              </div>
+        </td>
+          <td>
+           <div>
            📝Resume:
-            <a target="_blank" href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing" ><img src="images/curriculos.png" alt="curriculo" width="50px" ></a>
-          </div></td>
+            <a target="_blank" href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing" ><img src="images/curriculos.png" alt="curriculo" width="20px" ></a>
+          </div>
+       </td>
      </tr>   
   </table>
 </center>
