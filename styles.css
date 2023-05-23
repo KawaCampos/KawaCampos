@@ -24,9 +24,3 @@ a{
   margin-right: 40px;
 }
 
-.wrapper {
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-column-gap: 10px;
-  grid-row-gap: 1em;
-}
