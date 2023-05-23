@@ -10,9 +10,14 @@ I am a Computer Science student with a passion for web development and creating 
 
 ### ☣️ More About Me
 
-🚀 Skills: 
-I have proficiency in HTML, CSS, and JavaScript. Additionally, I am enhancing my knowledge in React, Redux, Node.js, Express, and MongoDB.
-
+<ul>🚀 Skills: 
+ <li> HTML5, CSS3, and JavaScript: Proficient in building responsive and visually appealing web interfaces.</li>
+ <li> React and Redux: Currently learning and expanding knowledge in creating dynamic and interactive front-end applications.</li>
+ <li> Node.js and Express: Currently learning and exploring server-side development and building RESTful APIs.</li>
+ <li> MongoDB: Currently learning and gaining familiarity with NoSQL databases for data storage and retrieval.</li>
+ <li> Design Patterns: Currently studying and understanding commonly used software design principles and patterns.</li>
+ <li> English Fluency: Fluent in English, with strong written and verbal communication skills.</li>
+</ul>
 
 ## 📚 Education
 **Bachelor of Computer Science** | Cruzeiro do Sul University | 2023 - Present
@@ -36,26 +41,24 @@ I also have an interest in Python and I am actively seeking knowledge to expand 
 
 ### 💼 Work Experience: 
 I have previous experience as a cashier at McDonald's and as a kitchen assistant at Cabana Burguer. However, my main focus is in the development field.
+<br>
+<br>
 
 <center>
   <table>
-    <tr>
-        <td>
-          <div>
-           🌎 Languages:
-            I have advanced proficiency in English.
+    <tr>   
          </div>
         </td>
          <td>
+            <b>📞 Contact:</b>
           <div>
-            📞 Contact:
-            <a target="_blank" href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/"><img src="images/linkedin (3).png"       alt="linkedin" width="20px" ></a>
-            <a target="_blank" href="mailto:kawacampos030@gmail.com" ><img src="images/gmail (2).png" alt="gmail" width="20px" ></a>              </div>
+            <br><a target="_blank" href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/"><img src="images/linkedin (3).png"       alt="linkedin" width="50px" ></a> 
+            <a target="_blank" href="mailto:kawacampos030@gmail.com" ><img src="images/gmail (2).png" alt="gmail" width="50px" ></a>              </div>
         </td>
           <td>
+           <b>📝Resume:</b>
            <div>
-           📝Resume:
-            <a target="_blank" href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing" ><img src="images/curriculos.png" alt="curriculo" width="20px" ></a>
+            <br><a target="_blank" href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing" ><img src="images/curriculos.png" alt="curriculo" width="50px"></a>
           </div>
        </td>
      </tr>   
