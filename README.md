@@ -1,7 +1,5 @@
 ### 👋 Kawã Campos - Front-end Developer
-<a href='https://www.linkedin.com/in/caiotheodoro1/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/KawaCampos/KawaCampos/372fbec3b480ebeb392982c958024e30b6a9d907/assets/linkedin.svg" height='18px'/></a>
-<a href='https://caiotheodoro.vercel.app/' target="_blank"><img alt="kaggle" src="https://raw.githubusercontent.com/KawaCampos/KawaCampos/931b814dfe67e7ee2bdf12863fcd98fd68c8d442/assets/world-wide-web-svgrepo-com.svg" height='18px'/></a>
-
+<a href='https://www.linkedin.com/in/kaw%C3%A3campos/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/KawaCampos/KawaCampos/372fbec3b480ebeb392982c958024e30b6a9d907/assets/linkedin.svg" height='18px'/></a>
 
 ### 📖 About Me
 I am a Computer Science student with a passion for web development and creating user-friendly interfaces. I am currently in my first semester of studies and committed to enhancing my skills through courses and hands-on projects. My goal is to become a skilled front-end developer and contribute to the creation of amazing web experiences.
@@ -20,12 +18,10 @@ I am a Computer Science student with a passion for web development and creating 
 - Express
 - MongoDB
 - Design Patterns
-<br>
+
 
 ## 📚 Education
 **Bachelor of Computer Science** | Cruzeiro do Sul University | 2023 - Present
-
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -41,7 +37,7 @@ I am a Computer Science student with a passion for web development and creating 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawaCampos&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="400px" align="left" src="https://camo.githubusercontent.com/8d93a9bce39150cae9d2e01f7a1ddb58895e7c7398ae57cf557005afa612e93e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b61776143616d706f7326686964653d68746d6c266c61796f75743d636f6d70616374267468656d653d6461726b" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=KawaCampos&theme=dark&count_private=true"/></td>
     </tr>   
   </table>
