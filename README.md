@@ -10,7 +10,7 @@ I am a Computer Science student with a passion for web development and creating 
 
 ### ☣️ More About Me
 
-<ul>🚀 Skills: 
+<ul>🚀 Skills:
  <li> HTML5, CSS3, and JavaScript: Proficient in building responsive and visually appealing web interfaces.</li>
  <li> React and Redux: Currently learning and expanding knowledge in creating dynamic and interactive front-end applications.</li>
  <li> Node.js and Express: Currently learning and exploring server-side development and building RESTful APIs.</li>
@@ -50,13 +50,13 @@ I have previous experience as a cashier at McDonald's and as a kitchen assistant
          </div>
         </td>
          <td>
-            <b>📞 Contact:</b>
+            <b>📞 Contact :</b>
           <div>
             <br><a target="_blank" href="https://www.linkedin.com/in/kaw%C3%A3-campos-703495266/"><img src="images/linkedin (3).png"       alt="linkedin" width="50px" ></a> 
             <a target="_blank" href="mailto:kawacampos030@gmail.com" ><img src="images/gmail (2).png" alt="gmail" width="50px" ></a>              </div>
         </td>
           <td>
-           <b>📝Resume:</b>
+           <b>📝Resume :</b>
            <div>
             <br><a target="_blank" href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing" ><img src="images/curriculos.png" alt="curriculo" width="50px"></a>
           </div>
