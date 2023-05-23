@@ -8,7 +8,7 @@ I am a Computer Science student with a passion for web development and creating 
 <br/>
 <br/>
  
-  <img align="right" alt="GIF"  src="./images/ヌオー ポケモン.gif" width="300px">
+  <img align="right" alt="GIF"  src="./images/smeargle.gif" width="300px">
 
 ### ☣️ More About Me
 
