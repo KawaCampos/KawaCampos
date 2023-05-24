@@ -58,7 +58,7 @@ I have previous experience as a cashier at McDonald's and as a kitchen assistant
           <td>
            <b>📝Resume :</b>
            <div>
-            <br><a target="_blank" href="https://drive.google.com/file/d/1NRbwn_Zq2yj11-qISXJvhNYUrm5K1OBL/view?usp=sharing" ><img src="images/curriculos.png" alt="curriculo" width="50px"></a>
+            <br><a target="_blank" href="https://drive.google.com/file/d/19i6IiTDYHvo1SJSX-y9xvwYZAgXHxO-p/view" ><img src="images/curriculos.png" alt="curriculo" width="50px"></a>
           </div>
        </td>
      </tr>   
