@@ -6,7 +6,7 @@ I am a Computer Science student with a passion for web development and creating 
 
 
  
-  <img align="right" alt="GIF"  src="./images/cute-pokemon-mew.gif" width="300px">
+  <img align="right" alt="GIF"  src="./images/kirby-music.gif" width="300px">
 
 ### ☣️ More About Me
 
